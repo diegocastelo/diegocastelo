@@ -1,9 +1,9 @@
-### Hi there! I´m Diego Castelo👋
+## Hi there! I´m Diego Castelo👋
 
 [![Instagram](https://img.shields.io/badge/__diegocastelo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_diegocastelo/)
 [![Linkedin](https://img.shields.io/badge/DiegoCastelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-castelo-180957249/)
 
-#### Technologies I know:
+### Technologies I know:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
